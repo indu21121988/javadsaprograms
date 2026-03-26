@@ -1,0 +1,33 @@
+Hash table intro, collisions, costructor, Hash method, Set, Get, Keys, BIG O
+
+interview quesiotns
+
+couple of arrays and the objective is to see if the two arrays have an item in common.(do without nested loop)
+
+Hash table Bid O
+
+coding exercise - consturctor, set, get, keys
+
+Leet code exercises-
+
+HT(Hash table)
+
+Find item common in two arrays
+Find duplicates
+FInd first non-repeating charater
+Group anagrams
+two sum
+subarray sum
+
+
+----------------
+Introduction to Sets
+
+Remove duplicates
+Hash unique chars
+Find pairs (two integer array , and an integer tartget, write a method finds all pairs of integers such the one integer is from arry and other from arra2 and their sum equals the target value
+
+Longest consecutive sequence(given an array of inegers, write funciton that finds the length of lingestconsecutivesequence
+
+
+

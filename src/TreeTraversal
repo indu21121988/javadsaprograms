@@ -1,0 +1,13 @@
+Tree traversal intro
+BFS(Breadth first search) : intro
+BFS : program
+Depth first search : preorder -intro
+DFS preorder
+DFS post order
+DFS inorder
+
+
+programs-
+Implement a method to validate whether a given binary tree is a correctly formed binary search tree
+kthsmallest(int k) method should find the kth smallest element in the binary search tree
+

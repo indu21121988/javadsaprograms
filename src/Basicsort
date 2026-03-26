@@ -1,0 +1,36 @@
+Bubble sort
+selection sort
+insertion sort
+insertion sort Big O
+
+
+Leet code program
+implement bubble sort algorigham in a singley linked list
+implement selection sort algorigham in a singley linked list
+implement insertion sort algorigham in a singley linked list
+
+
+-------------------------
+Merge sort
+Merge sort Big O
+
+Merge Sort is a stable, divide-and-conquer algorithm that guarantees \(O(n\log n)\) time complexity 
+in all cases. It works by recursively splitting the array in half until each subarray has only one element, 
+then merging those subarrays back together in sorted order
+
+Leet program
+the merge method takes in another LinkedList as an input and merges it with current linkedlist.
+The elements in both lists are assumed to be in ascending order, but the input lists themselves do no need to be sorted.
+
+
+-----------------------
+Quick sort : intro
+pivot:intro
+Quick sort program
+Quick sort : BIg O
+
+//Quick Sort is an efficient, divide-and-conquer sorting algorithm that works by selecting 
+	//a "pivot" element and partitioning the array around it. After partitioning, 
+	// the pivot is in its final sorted position, with all smaller elements to its left and all larger elements to its right. 
+	
+

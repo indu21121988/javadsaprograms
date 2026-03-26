@@ -1,0 +1,15 @@
+stack intro
+
+stack constructor, push, pop
+Queue intro, constructor, enqueu, dequeue
+
+stacks and queues Big O
+
+
+stack push for a stack that uses an arraylist
+stack reverse string
+stack parentheses balanced
+sort stack
+queue using stacks: enqueue (implement the enqueue method for a queue using two stacks)
+queue using stacksL dequeue (implement the enqueue method for a queue using two stacks)
+

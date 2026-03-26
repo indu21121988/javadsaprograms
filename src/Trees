@@ -1,0 +1,35 @@
+Trees intro and terminology
+Binary search trees:
+BST: BIG O
+BST constructor
+BST Insert-intro, code example
+BST contains - intro, code example
+BST BIG O
+
+
+codeing excercises
+BST constructor, insert, contains
+
+
+Leet code interview quesitons
+
+BST exercises require recrusion
+
+Recrusive Binary search trees
+Tree traversal
+	Breadth-First search
+	Depth First search
+		pre-order
+		in-order
+		post-order
+
+
+Delete a node from a BST
+Converting a sorted array to balanced BST
+Inverting a BST(flipping BST to mirror its structure)
+validating a BST(discover how to check if a binary tree satisfies BST conditions, and essential problem solving skill)
+
+
+
+
+
